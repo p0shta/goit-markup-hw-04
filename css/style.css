@@ -411,6 +411,10 @@ body {
     margin-right: 70px;
 }
 
+.footer-wrap > div:last-child {
+    padding-top: 12px;
+}
+
 .footer-text {
     font-weight: 700;
     font-size: 14px;
